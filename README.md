@@ -5,16 +5,6 @@ Implementing B+ tree using C++
 - [X] Structuring the main Function
 - [X] Delete
 
-## Demo :
-
-
-
-## Default DataBase Schema :
-
-Our DataBase Schema Will look something like this-
-
-
-
 ## Summary- What is the project all about? 
 
 This project is small version of database system. Where we efficiently implement the B+ Tree for fast and efficient access
